@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0EFAF274-2A62-4B60-BAD9-D5B899C0BA14</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0EFAF274-2A62-4B60-BAD9-D5B899C0BA14.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gacha project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gacha</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gacha</string>
+			<key>timeStartedRecording</key>
+			<real>650706163.98161197</real>
+			<key>timeStoppedRecording</key>
+			<real>650706164.97442698</real>
+			<key>title</key>
+			<string>Build Gacha</string>
+			<key>uniqueIdentifier</key>
+			<string>0EFAF274-2A62-4B60-BAD9-D5B899C0BA14</string>
+		</dict>
+		<key>1CFA4C0B-A7C3-4108-9EEF-F7A9F89A257D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1CFA4C0B-A7C3-4108-9EEF-F7A9F89A257D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gacha project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gacha</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gacha</string>
+			<key>timeStartedRecording</key>
+			<real>650707837.40413904</real>
+			<key>timeStoppedRecording</key>
+			<real>650707840.99112701</real>
+			<key>title</key>
+			<string>Build Gacha</string>
+			<key>uniqueIdentifier</key>
+			<string>1CFA4C0B-A7C3-4108-9EEF-F7A9F89A257D</string>
+		</dict>
+		<key>1D416121-1E15-4C50-8CC8-C716981B2C8E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1D416121-1E15-4C50-8CC8-C716981B2C8E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gacha project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gacha</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gacha</string>
+			<key>timeStartedRecording</key>
+			<real>650706256.75202501</real>
+			<key>timeStoppedRecording</key>
+			<real>650706257.26291597</real>
+			<key>title</key>
+			<string>Build Gacha</string>
+			<key>uniqueIdentifier</key>
+			<string>1D416121-1E15-4C50-8CC8-C716981B2C8E</string>
+		</dict>
+		<key>38FFE4D7-6B9C-43AB-805A-8B9E1187682D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>38FFE4D7-6B9C-43AB-805A-8B9E1187682D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gacha project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gacha</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gacha</string>
+			<key>timeStartedRecording</key>
+			<real>650706290.76418304</real>
+			<key>timeStoppedRecording</key>
+			<real>650706291.24162495</real>
+			<key>title</key>
+			<string>Build Gacha</string>
+			<key>uniqueIdentifier</key>
+			<string>38FFE4D7-6B9C-43AB-805A-8B9E1187682D</string>
+		</dict>
+		<key>6380A7B7-341B-4069-93AD-478C4104D7A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6380A7B7-341B-4069-93AD-478C4104D7A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gacha project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gacha</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gacha</string>
+			<key>timeStartedRecording</key>
+			<real>650706530.45122898</real>
+			<key>timeStoppedRecording</key>
+			<real>650706534.44497895</real>
+			<key>title</key>
+			<string>Build Gacha</string>
+			<key>uniqueIdentifier</key>
+			<string>6380A7B7-341B-4069-93AD-478C4104D7A2</string>
+		</dict>
+		<key>6F261DDE-26AB-41D1-A2AF-F79235E9FBB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6F261DDE-26AB-41D1-A2AF-F79235E9FBB3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gacha project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gacha</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gacha</string>
+			<key>timeStartedRecording</key>
+			<real>650706099.07527602</real>
+			<key>timeStoppedRecording</key>
+			<real>650706100.26341999</real>
+			<key>title</key>
+			<string>Build Gacha</string>
+			<key>uniqueIdentifier</key>
+			<string>6F261DDE-26AB-41D1-A2AF-F79235E9FBB3</string>
+		</dict>
+		<key>B3D23F50-5984-404D-A4C9-60E3E19D6FF7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B3D23F50-5984-404D-A4C9-60E3E19D6FF7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gacha project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gacha</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gacha</string>
+			<key>timeStartedRecording</key>
+			<real>650705455.74206698</real>
+			<key>timeStoppedRecording</key>
+			<real>650705457.60687494</real>
+			<key>title</key>
+			<string>Build Gacha</string>
+			<key>uniqueIdentifier</key>
+			<string>B3D23F50-5984-404D-A4C9-60E3E19D6FF7</string>
+		</dict>
+		<key>DA37BB27-FB39-42CB-AF5E-E863C6522416</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DA37BB27-FB39-42CB-AF5E-E863C6522416.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Gacha project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Gacha</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Gacha</string>
+			<key>timeStartedRecording</key>
+			<real>650706576.38728297</real>
+			<key>timeStoppedRecording</key>
+			<real>650706576.93336904</real>
+			<key>title</key>
+			<string>Build Gacha</string>
+			<key>uniqueIdentifier</key>
+			<string>DA37BB27-FB39-42CB-AF5E-E863C6522416</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
